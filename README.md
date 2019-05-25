@@ -7,6 +7,10 @@ Some feaures could not be completed, like some nltk and textblob processes of le
 
 
 Created by:- Azfar Lari using Google Colaboratory
+             linkedin.com/in/azfar-lari
+Submitted to:- Dr. Sukant Khurana
+               https://scholar.google.co.in/citations?user=LiTpdBYAAAAJ&hl=en&oi=ao
+
 
 References:
 https://www.datacamp.com/community/tutorials/web-scraping-using-python
