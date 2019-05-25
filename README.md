@@ -3,7 +3,7 @@
 This notebook focuses on mainly extracting articles from the the Times of India website and performing preliminary analysies on the text and
 also visualizing our results.
 
-Some feaures could not be completed, like some nltk and textblob processes of lemmatization, etc. due to the lack of time
+Some feaures could not be completed, like some nltk and textblob processes of lemmatization, TF-IDF etc. due to the lack of time
 
 
 Created by:- Azfar Lari using Google Colaboratory
